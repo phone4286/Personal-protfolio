@@ -1,0 +1,9 @@
+{
+  "routes": {
+    "/Personal-protfolio": {},
+    "/Personal-protfolio/about": {},
+    "/Personal-protfolio/contact": {},
+    "/Personal-protfolio/home": {},
+    "/Personal-protfolio/portfolio": {}
+  }
+}
